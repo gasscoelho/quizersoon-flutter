@@ -23,7 +23,9 @@ A simple mobile application to play some Quiz.
 ## To Run
 
 ```
-flutter run
+$ git clone https://github.com/gasscoelho/quizersoon-flutter.git
+$ cd quizersoon-flutter
+$ flutter run
 ```
 
 ## Authors
